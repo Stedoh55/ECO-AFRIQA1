@@ -15,7 +15,7 @@ function Home() {
      <Mission />
      <Reviews2 />
      <Faq />
-     {/* <Contact /> */}  
+     <Contact />  
     {/* <FreshlyFooter /> */}
      </div>
   )
